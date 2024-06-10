@@ -1,0 +1,14 @@
+C:\Users\Neide\source\repos\Interpreter\Interpreter\bin\Debug\net8.0\Interpreter.exe
+C:\Users\Neide\source\repos\Interpreter\Interpreter\bin\Debug\net8.0\Interpreter.deps.json
+C:\Users\Neide\source\repos\Interpreter\Interpreter\bin\Debug\net8.0\Interpreter.runtimeconfig.json
+C:\Users\Neide\source\repos\Interpreter\Interpreter\bin\Debug\net8.0\Interpreter.dll
+C:\Users\Neide\source\repos\Interpreter\Interpreter\bin\Debug\net8.0\Interpreter.pdb
+C:\Users\Neide\source\repos\Interpreter\Interpreter\obj\Debug\net8.0\Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neide\source\repos\Interpreter\Interpreter\obj\Debug\net8.0\Interpreter.AssemblyInfoInputs.cache
+C:\Users\Neide\source\repos\Interpreter\Interpreter\obj\Debug\net8.0\Interpreter.AssemblyInfo.cs
+C:\Users\Neide\source\repos\Interpreter\Interpreter\obj\Debug\net8.0\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Neide\source\repos\Interpreter\Interpreter\obj\Debug\net8.0\Interpreter.dll
+C:\Users\Neide\source\repos\Interpreter\Interpreter\obj\Debug\net8.0\refint\Interpreter.dll
+C:\Users\Neide\source\repos\Interpreter\Interpreter\obj\Debug\net8.0\Interpreter.pdb
+C:\Users\Neide\source\repos\Interpreter\Interpreter\obj\Debug\net8.0\Interpreter.genruntimeconfig.cache
+C:\Users\Neide\source\repos\Interpreter\Interpreter\obj\Debug\net8.0\ref\Interpreter.dll
