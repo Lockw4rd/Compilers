@@ -1,0 +1,17 @@
+{
+  "name": "lezer-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lezer": "^0.13.5",
+    "lezer-generator": "^0.13.4"
+  }
+}
